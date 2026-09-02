@@ -1,0 +1,3050 @@
+{
+  "ad": {
+    "closest": [
+      "ro",
+      "td",
+      "md"
+    ],
+    "furthest": [
+      "jp",
+      "hn",
+      "cy"
+    ]
+  },
+  "ae": {
+    "closest": [
+      "eh",
+      "ps",
+      "sy"
+    ],
+    "furthest": [
+      "ee",
+      "jp",
+      "fi"
+    ]
+  },
+  "af": {
+    "closest": [
+      "bd",
+      "bb",
+      "sa"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "bl"
+    ]
+  },
+  "ag": {
+    "closest": [
+      "ma",
+      "im",
+      "mv"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "yt"
+    ]
+  },
+  "ai": {
+    "closest": [
+      "sh",
+      "tc",
+      "fk"
+    ],
+    "furthest": [
+      "va",
+      "cy",
+      "id"
+    ]
+  },
+  "al": {
+    "closest": [
+      "cn",
+      "kg",
+      "ma"
+    ],
+    "furthest": [
+      "hn",
+      "aq",
+      "pw"
+    ]
+  },
+  "am": {
+    "closest": [
+      "gm",
+      "ma",
+      "lt"
+    ],
+    "furthest": [
+      "hn",
+      "ni",
+      "pw"
+    ]
+  },
+  "ao": {
+    "closest": [
+      "pg",
+      "vu",
+      "by"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "bl"
+    ]
+  },
+  "aq": {
+    "closest": [
+      "so",
+      "gt",
+      "fm"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "ar": {
+    "closest": [
+      "fm",
+      "hn",
+      "ni"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "ly"
+    ]
+  },
+  "as": {
+    "closest": [
+      "kw",
+      "xk",
+      "mo"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "ge"
+    ]
+  },
+  "at": {
+    "closest": [
+      "hu",
+      "lv",
+      "nl"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "pw"
+    ]
+  },
+  "au": {
+    "closest": [
+      "nz",
+      "hm",
+      "gs"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "aw": {
+    "closest": [
+      "fm",
+      "so",
+      "lc"
+    ],
+    "furthest": [
+      "vn",
+      "kg",
+      "al"
+    ]
+  },
+  "ax": {
+    "closest": [
+      "se",
+      "ga",
+      "is"
+    ],
+    "furthest": [
+      "si",
+      "fi",
+      "cy"
+    ]
+  },
+  "az": {
+    "closest": [
+      "nc",
+      "ga",
+      "rw"
+    ],
+    "furthest": [
+      "id",
+      "ch",
+      "mc"
+    ]
+  },
+  "ba": {
+    "closest": [
+      "xk",
+      "bb",
+      "mp"
+    ],
+    "furthest": [
+      "va",
+      "jp",
+      "cy"
+    ]
+  },
+  "bb": {
+    "closest": [
+      "af",
+      "td",
+      "md"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "bl"
+    ]
+  },
+  "bd": {
+    "closest": [
+      "sa",
+      "mo",
+      "dm"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "bl"
+    ]
+  },
+  "be": {
+    "closest": [
+      "td",
+      "ro",
+      "sn"
+    ],
+    "furthest": [
+      "jp",
+      "hn",
+      "cy"
+    ]
+  },
+  "bf": {
+    "closest": [
+      "vu",
+      "by",
+      "bo"
+    ],
+    "furthest": [
+      "si",
+      "cy",
+      "jp"
+    ]
+  },
+  "bg": {
+    "closest": [
+      "ru",
+      "sk",
+      "si"
+    ],
+    "furthest": [
+      "id",
+      "ps",
+      "de"
+    ]
+  },
+  "bh": {
+    "closest": [
+      "qa",
+      "mt",
+      "mg"
+    ],
+    "furthest": [
+      "dz",
+      "pw",
+      "aq"
+    ]
+  },
+  "bi": {
+    "closest": [
+      "mm",
+      "gb-sct",
+      "gd"
+    ],
+    "furthest": [
+      "ca",
+      "je",
+      "al"
+    ]
+  },
+  "bj": {
+    "closest": [
+      "cm",
+      "cg",
+      "ml"
+    ],
+    "furthest": [
+      "id",
+      "cy",
+      "jp"
+    ]
+  },
+  "bl": {
+    "closest": [
+      "yt",
+      "cy",
+      "jp"
+    ],
+    "furthest": [
+      "gp",
+      "ao",
+      "ly"
+    ]
+  },
+  "bm": {
+    "closest": [
+      "ma",
+      "im",
+      "wf"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "bn": {
+    "closest": [
+      "nu",
+      "bt",
+      "lk"
+    ],
+    "furthest": [
+      "pw",
+      "ee",
+      "as"
+    ]
+  },
+  "bo": {
+    "closest": [
+      "gh",
+      "ne",
+      "by"
+    ],
+    "furthest": [
+      "ee",
+      "si",
+      "fi"
+    ]
+  },
+  "bq": {
+    "closest": [
+      "dj",
+      "fm",
+      "fj"
+    ],
+    "furthest": [
+      "de",
+      "tw",
+      "al"
+    ]
+  },
+  "br": {
+    "closest": [
+      "sa",
+      "bd",
+      "tm"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "id"
+    ]
+  },
+  "bs": {
+    "closest": [
+      "mo",
+      "cx",
+      "ga"
+    ],
+    "furthest": [
+      "jp",
+      "si",
+      "cy"
+    ]
+  },
+  "bt": {
+    "closest": [
+      "mk",
+      "mm",
+      "es"
+    ],
+    "furthest": [
+      "pw",
+      "ee",
+      "hn"
+    ]
+  },
+  "bv": {
+    "closest": [
+      "sj",
+      "no",
+      "ma"
+    ],
+    "furthest": [
+      "cy",
+      "hn",
+      "pw"
+    ]
+  },
+  "bw": {
+    "closest": [
+      "fm",
+      "so",
+      "aw"
+    ],
+    "furthest": [
+      "ch",
+      "vn",
+      "kg"
+    ]
+  },
+  "by": {
+    "closest": [
+      "gh",
+      "bf",
+      "bo"
+    ],
+    "furthest": [
+      "cy",
+      "si",
+      "jp"
+    ]
+  },
+  "bz": {
+    "closest": [
+      "gu",
+      "xk",
+      "la"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "va"
+    ]
+  },
+  "ca": {
+    "closest": [
+      "pe",
+      "cn",
+      "ma"
+    ],
+    "furthest": [
+      "pw",
+      "hn",
+      "pk"
+    ]
+  },
+  "cc": {
+    "closest": [
+      "sa",
+      "tm",
+      "zm"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "yt"
+    ]
+  },
+  "cd": {
+    "closest": [
+      "na",
+      "xk",
+      "so"
+    ],
+    "furthest": [
+      "vn",
+      "kg",
+      "al"
+    ]
+  },
+  "cf": {
+    "closest": [
+      "bm",
+      "np",
+      "ir"
+    ],
+    "furthest": [
+      "id",
+      "ly",
+      "bq"
+    ]
+  },
+  "cg": {
+    "closest": [
+      "ml",
+      "bj",
+      "sn"
+    ],
+    "furthest": [
+      "jp",
+      "hn",
+      "cy"
+    ]
+  },
+  "ch": {
+    "closest": [
+      "hk",
+      "tn",
+      "im"
+    ],
+    "furthest": [
+      "pw",
+      "hn",
+      "ee"
+    ]
+  },
+  "ci": {
+    "closest": [
+      "ng",
+      "gn",
+      "pe"
+    ],
+    "furthest": [
+      "tw",
+      "pt",
+      "pg"
+    ]
+  },
+  "ck": {
+    "closest": [
+      "nz",
+      "gs",
+      "au"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "cl": {
+    "closest": [
+      "cz",
+      "pl",
+      "sk"
+    ],
+    "furthest": [
+      "id",
+      "mc",
+      "pk"
+    ]
+  },
+  "cm": {
+    "closest": [
+      "bj",
+      "pt",
+      "tl"
+    ],
+    "furthest": [
+      "hn",
+      "ci",
+      "bq"
+    ]
+  },
+  "cn": {
+    "closest": [
+      "im",
+      "ma",
+      "kg"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "co": {
+    "closest": [
+      "ec",
+      "lt",
+      "ve"
+    ],
+    "furthest": [
+      "hn",
+      "ee",
+      "pw"
+    ]
+  },
+  "cr": {
+    "closest": [
+      "sr",
+      "th",
+      "kp"
+    ],
+    "furthest": [
+      "si",
+      "ye",
+      "ly"
+    ]
+  },
+  "cu": {
+    "closest": [
+      "cr",
+      "sr",
+      "tg"
+    ],
+    "furthest": [
+      "jp",
+      "bn",
+      "al"
+    ]
+  },
+  "cv": {
+    "closest": [
+      "xk",
+      "cw",
+      "mo"
+    ],
+    "furthest": [
+      "va",
+      "ge",
+      "jp"
+    ]
+  },
+  "cw": {
+    "closest": [
+      "cv",
+      "xk",
+      "sa"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "cx": {
+    "closest": [
+      "sa",
+      "mo",
+      "tm"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "id"
+    ]
+  },
+  "cy": {
+    "closest": [
+      "yt",
+      "bl",
+      "vi"
+    ],
+    "furthest": [
+      "gp",
+      "ly",
+      "ao"
+    ]
+  },
+  "cz": {
+    "closest": [
+      "cl",
+      "pl",
+      "bg"
+    ],
+    "furthest": [
+      "id",
+      "mc",
+      "ps"
+    ]
+  },
+  "de": {
+    "closest": [
+      "mw",
+      "mz",
+      "ma"
+    ],
+    "furthest": [
+      "sm",
+      "cy",
+      "hn"
+    ]
+  },
+  "dj": {
+    "closest": [
+      "fm",
+      "uz",
+      "aw"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "dk": {
+    "closest": [
+      "lv",
+      "im",
+      "at"
+    ],
+    "furthest": [
+      "fi",
+      "ee",
+      "pw"
+    ]
+  },
+  "dm": {
+    "closest": [
+      "bd",
+      "sa",
+      "br"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "gb-nir"
+    ]
+  },
+  "do": {
+    "closest": [
+      "lv",
+      "hu",
+      "nl"
+    ],
+    "furthest": [
+      "gb-nir",
+      "gb-eng",
+      "ge"
+    ]
+  },
+  "dz": {
+    "closest": [
+      "fm",
+      "um",
+      "us"
+    ],
+    "furthest": [
+      "mt",
+      "pk",
+      "to"
+    ]
+  },
+  "ec": {
+    "closest": [
+      "co",
+      "lt",
+      "mm"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "ee"
+    ]
+  },
+  "ee": {
+    "closest": [
+      "bw",
+      "rs",
+      "mz"
+    ],
+    "furthest": [
+      "ye",
+      "eg",
+      "iq"
+    ]
+  },
+  "eg": {
+    "closest": [
+      "ye",
+      "iq",
+      "hu"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "gb-nir"
+    ]
+  },
+  "eh": {
+    "closest": [
+      "ps",
+      "jo",
+      "ae"
+    ],
+    "furthest": [
+      "si",
+      "jp",
+      "fi"
+    ]
+  },
+  "er": {
+    "closest": [
+      "gy",
+      "np",
+      "kp"
+    ],
+    "furthest": [
+      "si",
+      "pr",
+      "cy"
+    ]
+  },
+  "es": {
+    "closest": [
+      "ma",
+      "mk",
+      "cn"
+    ],
+    "furthest": [
+      "pw",
+      "hn",
+      "aq"
+    ]
+  },
+  "et": {
+    "closest": [
+      "li",
+      "ir",
+      "es"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "fi"
+    ]
+  },
+  "fi": {
+    "closest": [
+      "fo",
+      "bw",
+      "fm"
+    ],
+    "furthest": [
+      "ye",
+      "eg",
+      "sy"
+    ]
+  },
+  "fj": {
+    "closest": [
+      "fm",
+      "tv",
+      "so"
+    ],
+    "furthest": [
+      "vn",
+      "al",
+      "tw"
+    ]
+  },
+  "fk": {
+    "closest": [
+      "ai",
+      "ky",
+      "ms"
+    ],
+    "furthest": [
+      "va",
+      "cy",
+      "id"
+    ]
+  },
+  "fm": {
+    "closest": [
+      "so",
+      "lc",
+      "aw"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "fo": {
+    "closest": [
+      "fi",
+      "yt",
+      "gb-eng"
+    ],
+    "furthest": [
+      "ye",
+      "sy",
+      "ao"
+    ]
+  },
+  "fr": {
+    "closest": [
+      "mf",
+      "mx",
+      "it"
+    ],
+    "furthest": [
+      "jp",
+      "pk",
+      "bl"
+    ]
+  },
+  "ga": {
+    "closest": [
+      "ax",
+      "st",
+      "se"
+    ],
+    "furthest": [
+      "si",
+      "ru",
+      "am"
+    ]
+  },
+  "gb-eng": {
+    "closest": [
+      "gb-nir",
+      "ge",
+      "gg"
+    ],
+    "furthest": [
+      "gp",
+      "cc",
+      "ao"
+    ]
+  },
+  "gb-nir": {
+    "closest": [
+      "gb-eng",
+      "gg",
+      "ge"
+    ],
+    "furthest": [
+      "gp",
+      "cc",
+      "ao"
+    ]
+  },
+  "gb-sct": {
+    "closest": [
+      "so",
+      "fm",
+      "aw"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "gb-wls": {
+    "closest": [
+      "sm",
+      "om",
+      "bf"
+    ],
+    "furthest": [
+      "id",
+      "de",
+      "mc"
+    ]
+  },
+  "gb": {
+    "closest": [
+      "bw",
+      "np",
+      "kp"
+    ],
+    "furthest": [
+      "si",
+      "ch",
+      "ly"
+    ]
+  },
+  "gd": {
+    "closest": [
+      "lt",
+      "mv",
+      "ma"
+    ],
+    "furthest": [
+      "hn",
+      "il",
+      "jp"
+    ]
+  },
+  "ge": {
+    "closest": [
+      "gb-eng",
+      "gb-nir",
+      "gg"
+    ],
+    "furthest": [
+      "gp",
+      "cc",
+      "sy"
+    ]
+  },
+  "gf": {
+    "closest": [
+      "mz",
+      "ua",
+      "gn"
+    ],
+    "furthest": [
+      "pr",
+      "si",
+      "cz"
+    ]
+  },
+  "gg": {
+    "closest": [
+      "gb-eng",
+      "gb-nir",
+      "ge"
+    ],
+    "furthest": [
+      "sy",
+      "gp",
+      "cc"
+    ]
+  },
+  "gh": {
+    "closest": [
+      "bo",
+      "by",
+      "bf"
+    ],
+    "furthest": [
+      "si",
+      "ee",
+      "fi"
+    ]
+  },
+  "gi": {
+    "closest": [
+      "pl",
+      "gl",
+      "sk"
+    ],
+    "furthest": [
+      "ee",
+      "ly",
+      "de"
+    ]
+  },
+  "gl": {
+    "closest": [
+      "pl",
+      "gi",
+      "sk"
+    ],
+    "furthest": [
+      "ly",
+      "ee",
+      "tz"
+    ]
+  },
+  "gm": {
+    "closest": [
+      "bf",
+      "am",
+      "vu"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "ee"
+    ]
+  },
+  "gn": {
+    "closest": [
+      "gy",
+      "af",
+      "gw"
+    ],
+    "furthest": [
+      "jp",
+      "hn",
+      "cy"
+    ]
+  },
+  "gp": {
+    "closest": [
+      "sa",
+      "tk",
+      "bd"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "bl"
+    ]
+  },
+  "gq": {
+    "closest": [
+      "ir",
+      "kw",
+      "at"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "gb-nir"
+    ]
+  },
+  "gr": {
+    "closest": [
+      "fm",
+      "so",
+      "aw"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "gs": {
+    "closest": [
+      "vg",
+      "pn",
+      "ky"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "gt": {
+    "closest": [
+      "fm",
+      "so",
+      "lc"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "gu": {
+    "closest": [
+      "xk",
+      "bz",
+      "sa"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "va"
+    ]
+  },
+  "gw": {
+    "closest": [
+      "bf",
+      "co",
+      "gn"
+    ],
+    "furthest": [
+      "ee",
+      "jp",
+      "hn"
+    ]
+  },
+  "gy": {
+    "closest": [
+      "er",
+      "st",
+      "bs"
+    ],
+    "furthest": [
+      "si",
+      "jp",
+      "cy"
+    ]
+  },
+  "hk": {
+    "closest": [
+      "tn",
+      "im",
+      "cn"
+    ],
+    "furthest": [
+      "pw",
+      "hn",
+      "aq"
+    ]
+  },
+  "hm": {
+    "closest": [
+      "au",
+      "nz",
+      "ck"
+    ],
+    "furthest": [
+      "va",
+      "cy",
+      "jp"
+    ]
+  },
+  "hn": {
+    "closest": [
+      "ni",
+      "ar",
+      "sl"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "hr": {
+    "closest": [
+      "py",
+      "nl",
+      "hu"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "si"
+    ]
+  },
+  "ht": {
+    "closest": [
+      "li",
+      "ws",
+      "bz"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "id"
+    ]
+  },
+  "hu": {
+    "closest": [
+      "nl",
+      "in",
+      "py"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "si"
+    ]
+  },
+  "id": {
+    "closest": [
+      "mc",
+      "sg",
+      "ki"
+    ],
+    "furthest": [
+      "si",
+      "gp",
+      "rw"
+    ]
+  },
+  "ie": {
+    "closest": [
+      "it",
+      "mx",
+      "mf"
+    ],
+    "furthest": [
+      "pk",
+      "al",
+      "hm"
+    ]
+  },
+  "il": {
+    "closest": [
+      "ar",
+      "fm",
+      "uy"
+    ],
+    "furthest": [
+      "ly",
+      "al",
+      "vn"
+    ]
+  },
+  "im": {
+    "closest": [
+      "ma",
+      "cn",
+      "hk"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "in": {
+    "closest": [
+      "ne",
+      "hu",
+      "py"
+    ],
+    "furthest": [
+      "ee",
+      "de",
+      "fi"
+    ]
+  },
+  "io": {
+    "closest": [
+      "fj",
+      "fm",
+      "aw"
+    ],
+    "furthest": [
+      "vn",
+      "al",
+      "tw"
+    ]
+  },
+  "iq": {
+    "closest": [
+      "eg",
+      "ye",
+      "in"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "gb-nir"
+    ]
+  },
+  "ir": {
+    "closest": [
+      "gq",
+      "at",
+      "sy"
+    ],
+    "furthest": [
+      "ee",
+      "ly",
+      "fi"
+    ]
+  },
+  "is": {
+    "closest": [
+      "se",
+      "ax",
+      "xk"
+    ],
+    "furthest": [
+      "fi",
+      "va",
+      "si"
+    ]
+  },
+  "it": {
+    "closest": [
+      "mx",
+      "ie",
+      "mf"
+    ],
+    "furthest": [
+      "pk",
+      "jp",
+      "al"
+    ]
+  },
+  "je": {
+    "closest": [
+      "vi",
+      "cy",
+      "bl"
+    ],
+    "furthest": [
+      "gp",
+      "ly",
+      "cc"
+    ]
+  },
+  "jm": {
+    "closest": [
+      "sa",
+      "tm",
+      "zm"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "je"
+    ]
+  },
+  "jo": {
+    "closest": [
+      "eh",
+      "ps",
+      "ae"
+    ],
+    "furthest": [
+      "si",
+      "jp",
+      "fi"
+    ]
+  },
+  "jp": {
+    "closest": [
+      "yt",
+      "bl",
+      "cy"
+    ],
+    "furthest": [
+      "gp",
+      "ao",
+      "ly"
+    ]
+  },
+  "ke": {
+    "closest": [
+      "mw",
+      "sa",
+      "nc"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "yt"
+    ]
+  },
+  "kg": {
+    "closest": [
+      "vn",
+      "cn",
+      "me"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "kh": {
+    "closest": [
+      "kp",
+      "sz",
+      "nc"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "bl"
+    ]
+  },
+  "ki": {
+    "closest": [
+      "mc",
+      "bf",
+      "id"
+    ],
+    "furthest": [
+      "si",
+      "pl",
+      "gi"
+    ]
+  },
+  "km": {
+    "closest": [
+      "bj",
+      "in",
+      "cz"
+    ],
+    "furthest": [
+      "ee",
+      "de",
+      "id"
+    ]
+  },
+  "kn": {
+    "closest": [
+      "zm",
+      "li",
+      "ws"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "gb-nir"
+    ]
+  },
+  "kp": {
+    "closest": [
+      "kh",
+      "sz",
+      "ma"
+    ],
+    "furthest": [
+      "si",
+      "cy",
+      "fi"
+    ]
+  },
+  "kr": {
+    "closest": [
+      "yt",
+      "bl",
+      "vi"
+    ],
+    "furthest": [
+      "gp",
+      "ao",
+      "pg"
+    ]
+  },
+  "kw": {
+    "closest": [
+      "gq",
+      "ae",
+      "ir"
+    ],
+    "furthest": [
+      "jp",
+      "fi",
+      "cy"
+    ]
+  },
+  "ky": {
+    "closest": [
+      "vg",
+      "gs",
+      "pn"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "kz": {
+    "closest": [
+      "so",
+      "mo",
+      "xk"
+    ],
+    "furthest": [
+      "vn",
+      "al",
+      "kg"
+    ]
+  },
+  "la": {
+    "closest": [
+      "mv",
+      "bz",
+      "mr"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "yt"
+    ]
+  },
+  "lb": {
+    "closest": [
+      "pf",
+      "at",
+      "hu"
+    ],
+    "furthest": [
+      "ee",
+      "ly",
+      "gp"
+    ]
+  },
+  "lc": {
+    "closest": [
+      "fm",
+      "aw",
+      "ar"
+    ],
+    "furthest": [
+      "vn",
+      "al",
+      "kg"
+    ]
+  },
+  "li": {
+    "closest": [
+      "ht",
+      "ws",
+      "ma"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "kr"
+    ]
+  },
+  "lk": {
+    "closest": [
+      "ma",
+      "mk",
+      "tl"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "lr": {
+    "closest": [
+      "us",
+      "um",
+      "io"
+    ],
+    "furthest": [
+      "cc",
+      "ly",
+      "pk"
+    ]
+  },
+  "ls": {
+    "closest": [
+      "sv",
+      "ni",
+      "uz"
+    ],
+    "furthest": [
+      "si",
+      "al",
+      "vn"
+    ]
+  },
+  "lt": {
+    "closest": [
+      "ve",
+      "mm",
+      "co"
+    ],
+    "furthest": [
+      "hn",
+      "ni",
+      "ls"
+    ]
+  },
+  "lu": {
+    "closest": [
+      "py",
+      "nl",
+      "hu"
+    ],
+    "furthest": [
+      "ee",
+      "si",
+      "de"
+    ]
+  },
+  "lv": {
+    "closest": [
+      "at",
+      "dk",
+      "hu"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "gb-nir"
+    ]
+  },
+  "ly": {
+    "closest": [
+      "vu",
+      "ao",
+      "bf"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "il"
+    ]
+  },
+  "ma": {
+    "closest": [
+      "im",
+      "cn",
+      "tr"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "mc": {
+    "closest": [
+      "id",
+      "sg",
+      "rs"
+    ],
+    "furthest": [
+      "si",
+      "gp",
+      "cz"
+    ]
+  },
+  "md": {
+    "closest": [
+      "ro",
+      "ad",
+      "td"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "va"
+    ]
+  },
+  "me": {
+    "closest": [
+      "kg",
+      "vn",
+      "cn"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "mf": {
+    "closest": [
+      "fr",
+      "mx",
+      "it"
+    ],
+    "furthest": [
+      "jp",
+      "pk",
+      "bl"
+    ]
+  },
+  "mg": {
+    "closest": [
+      "qa",
+      "bh",
+      "sx"
+    ],
+    "furthest": [
+      "dz",
+      "kw",
+      "be"
+    ]
+  },
+  "mh": {
+    "closest": [
+      "xk",
+      "mo",
+      "sb"
+    ],
+    "furthest": [
+      "va",
+      "id",
+      "ge"
+    ]
+  },
+  "mk": {
+    "closest": [
+      "ma",
+      "cn",
+      "im"
+    ],
+    "furthest": [
+      "pw",
+      "hn",
+      "aq"
+    ]
+  },
+  "ml": {
+    "closest": [
+      "sn",
+      "td",
+      "ro"
+    ],
+    "furthest": [
+      "jp",
+      "hn",
+      "cy"
+    ]
+  },
+  "mm": {
+    "closest": [
+      "lt",
+      "ec",
+      "ve"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "ee"
+    ]
+  },
+  "mn": {
+    "closest": [
+      "ma",
+      "im",
+      "mv"
+    ],
+    "furthest": [
+      "pw",
+      "cy",
+      "jp"
+    ]
+  },
+  "mo": {
+    "closest": [
+      "xk",
+      "sa",
+      "bd"
+    ],
+    "furthest": [
+      "jp",
+      "ge",
+      "cy"
+    ]
+  },
+  "mp": {
+    "closest": [
+      "xk",
+      "mo",
+      "gu"
+    ],
+    "furthest": [
+      "va",
+      "jp",
+      "cy"
+    ]
+  },
+  "mq": {
+    "closest": [
+      "tm",
+      "sa",
+      "cx"
+    ],
+    "furthest": [
+      "cy",
+      "id",
+      "jp"
+    ]
+  },
+  "mr": {
+    "closest": [
+      "la",
+      "mv",
+      "gd"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "gb-nir"
+    ]
+  },
+  "ms": {
+    "closest": [
+      "gs",
+      "nz",
+      "sh"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "id"
+    ]
+  },
+  "mt": {
+    "closest": [
+      "bh",
+      "qa",
+      "mg"
+    ],
+    "furthest": [
+      "dz",
+      "cc",
+      "gp"
+    ]
+  },
+  "mu": {
+    "closest": [
+      "by",
+      "bo",
+      "gh"
+    ],
+    "furthest": [
+      "si",
+      "cy",
+      "jp"
+    ]
+  },
+  "mv": {
+    "closest": [
+      "ma",
+      "im",
+      "la"
+    ],
+    "furthest": [
+      "hn",
+      "cy",
+      "jp"
+    ]
+  },
+  "mw": {
+    "closest": [
+      "ke",
+      "by",
+      "de"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "si"
+    ]
+  },
+  "mx": {
+    "closest": [
+      "it",
+      "fr",
+      "mf"
+    ],
+    "furthest": [
+      "jp",
+      "pk",
+      "bl"
+    ]
+  },
+  "my": {
+    "closest": [
+      "ws",
+      "um",
+      "us"
+    ],
+    "furthest": [
+      "bq",
+      "hn",
+      "pw"
+    ]
+  },
+  "mz": {
+    "closest": [
+      "gf",
+      "de",
+      "li"
+    ],
+    "furthest": [
+      "lu",
+      "hr",
+      "ye"
+    ]
+  },
+  "na": {
+    "closest": [
+      "bd",
+      "sb",
+      "mo"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "va"
+    ]
+  },
+  "nc": {
+    "closest": [
+      "az",
+      "ax",
+      "mw"
+    ],
+    "furthest": [
+      "si",
+      "jp",
+      "cy"
+    ]
+  },
+  "ne": {
+    "closest": [
+      "in",
+      "hu",
+      "tj"
+    ],
+    "furthest": [
+      "ee",
+      "si",
+      "fi"
+    ]
+  },
+  "nf": {
+    "closest": [
+      "ng",
+      "mx",
+      "gt"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "ng": {
+    "closest": [
+      "nf",
+      "gt",
+      "it"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "ni": {
+    "closest": [
+      "sv",
+      "hn",
+      "sl"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "nl": {
+    "closest": [
+      "py",
+      "hu",
+      "hr"
+    ],
+    "furthest": [
+      "ee",
+      "si",
+      "fi"
+    ]
+  },
+  "no": {
+    "closest": [
+      "bv",
+      "sj",
+      "ma"
+    ],
+    "furthest": [
+      "cy",
+      "hn",
+      "pw"
+    ]
+  },
+  "np": {
+    "closest": [
+      "ma",
+      "er",
+      "mq"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "va"
+    ]
+  },
+  "nr": {
+    "closest": [
+      "sa",
+      "gu",
+      "xk"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "nu": {
+    "closest": [
+      "bt",
+      "mk",
+      "es"
+    ],
+    "furthest": [
+      "pw",
+      "hm",
+      "hn"
+    ]
+  },
+  "nz": {
+    "closest": [
+      "au",
+      "gs",
+      "ms"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "om": {
+    "closest": [
+      "gw",
+      "by",
+      "gb-wls"
+    ],
+    "furthest": [
+      "id",
+      "ee",
+      "pw"
+    ]
+  },
+  "pa": {
+    "closest": [
+      "fm",
+      "ie",
+      "hu"
+    ],
+    "furthest": [
+      "de",
+      "gp",
+      "ee"
+    ]
+  },
+  "pe": {
+    "closest": [
+      "fr",
+      "mf",
+      "mx"
+    ],
+    "furthest": [
+      "pw",
+      "hn",
+      "pk"
+    ]
+  },
+  "pf": {
+    "closest": [
+      "lb",
+      "at",
+      "hu"
+    ],
+    "furthest": [
+      "ee",
+      "ly",
+      "gp"
+    ]
+  },
+  "pg": {
+    "closest": [
+      "ao",
+      "vu",
+      "ma"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "bl"
+    ]
+  },
+  "ph": {
+    "closest": [
+      "li",
+      "qa",
+      "ht"
+    ],
+    "furthest": [
+      "id",
+      "dz",
+      "va"
+    ]
+  },
+  "pk": {
+    "closest": [
+      "qa",
+      "tm",
+      "sx"
+    ],
+    "furthest": [
+      "ca",
+      "dz",
+      "va"
+    ]
+  },
+  "pl": {
+    "closest": [
+      "cl",
+      "cz",
+      "gl"
+    ],
+    "furthest": [
+      "id",
+      "ly",
+      "de"
+    ]
+  },
+  "pm": {
+    "closest": [
+      "gy",
+      "xk",
+      "aw"
+    ],
+    "furthest": [
+      "ch",
+      "vn",
+      "al"
+    ]
+  },
+  "pn": {
+    "closest": [
+      "vg",
+      "gs",
+      "sh"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "pr": {
+    "closest": [
+      "th",
+      "pf",
+      "lb"
+    ],
+    "furthest": [
+      "pw",
+      "gf",
+      "cc"
+    ]
+  },
+  "ps": {
+    "closest": [
+      "eh",
+      "jo",
+      "ae"
+    ],
+    "furthest": [
+      "si",
+      "jp",
+      "fi"
+    ]
+  },
+  "pt": {
+    "closest": [
+      "tl",
+      "ml",
+      "bj"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "hn"
+    ]
+  },
+  "pw": {
+    "closest": [
+      "kz",
+      "so",
+      "aq"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "py": {
+    "closest": [
+      "nl",
+      "hr",
+      "lu"
+    ],
+    "furthest": [
+      "ee",
+      "si",
+      "de"
+    ]
+  },
+  "qa": {
+    "closest": [
+      "bh",
+      "mg",
+      "mt"
+    ],
+    "furthest": [
+      "dz",
+      "be",
+      "fr"
+    ]
+  },
+  "re": {
+    "closest": [
+      "xk",
+      "aw",
+      "ph"
+    ],
+    "furthest": [
+      "id",
+      "ca",
+      "mc"
+    ]
+  },
+  "ro": {
+    "closest": [
+      "td",
+      "ad",
+      "md"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "hn"
+    ]
+  },
+  "rs": {
+    "closest": [
+      "mc",
+      "sg",
+      "id"
+    ],
+    "furthest": [
+      "sy",
+      "ye",
+      "eg"
+    ]
+  },
+  "ru": {
+    "closest": [
+      "bg",
+      "sk",
+      "si"
+    ],
+    "furthest": [
+      "id",
+      "ps",
+      "eh"
+    ]
+  },
+  "rw": {
+    "closest": [
+      "ua",
+      "cv",
+      "az"
+    ],
+    "furthest": [
+      "id",
+      "vn",
+      "kg"
+    ]
+  },
+  "sa": {
+    "closest": [
+      "tm",
+      "mo",
+      "cx"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "gb-nir"
+    ]
+  },
+  "sb": {
+    "closest": [
+      "mo",
+      "xk",
+      "sa"
+    ],
+    "furthest": [
+      "id",
+      "va",
+      "cy"
+    ]
+  },
+  "sc": {
+    "closest": [
+      "gy",
+      "bo",
+      "gh"
+    ],
+    "furthest": [
+      "si",
+      "fi",
+      "ee"
+    ]
+  },
+  "sd": {
+    "closest": [
+      "ye",
+      "eg",
+      "iq"
+    ],
+    "furthest": [
+      "ee",
+      "jp",
+      "fi"
+    ]
+  },
+  "se": {
+    "closest": [
+      "is",
+      "ax",
+      "ga"
+    ],
+    "furthest": [
+      "si",
+      "fi",
+      "jp"
+    ]
+  },
+  "sg": {
+    "closest": [
+      "mc",
+      "id",
+      "rs"
+    ],
+    "furthest": [
+      "gp",
+      "si",
+      "cc"
+    ]
+  },
+  "sh": {
+    "closest": [
+      "tc",
+      "ai",
+      "vg"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "si": {
+    "closest": [
+      "ru",
+      "sk",
+      "bg"
+    ],
+    "furthest": [
+      "id",
+      "ps",
+      "eh"
+    ]
+  },
+  "sj": {
+    "closest": [
+      "bv",
+      "no",
+      "ma"
+    ],
+    "furthest": [
+      "cy",
+      "hn",
+      "pw"
+    ]
+  },
+  "sk": {
+    "closest": [
+      "ru",
+      "bg",
+      "si"
+    ],
+    "furthest": [
+      "id",
+      "ps",
+      "eh"
+    ]
+  },
+  "sl": {
+    "closest": [
+      "ni",
+      "sv",
+      "hn"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "si"
+    ]
+  },
+  "sm": {
+    "closest": [
+      "fm",
+      "yt",
+      "ar"
+    ],
+    "furthest": [
+      "de",
+      "al",
+      "vn"
+    ]
+  },
+  "sn": {
+    "closest": [
+      "ml",
+      "ro",
+      "td"
+    ],
+    "furthest": [
+      "jp",
+      "hn",
+      "cy"
+    ]
+  },
+  "so": {
+    "closest": [
+      "fm",
+      "aw",
+      "kz"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "sr": {
+    "closest": [
+      "cr",
+      "th",
+      "gy"
+    ],
+    "furthest": [
+      "ye",
+      "si",
+      "eg"
+    ]
+  },
+  "ss": {
+    "closest": [
+      "ke",
+      "mw",
+      "mo"
+    ],
+    "furthest": [
+      "si",
+      "va",
+      "cy"
+    ]
+  },
+  "st": {
+    "closest": [
+      "ga",
+      "gy",
+      "nc"
+    ],
+    "furthest": [
+      "si",
+      "jp",
+      "cy"
+    ]
+  },
+  "sv": {
+    "closest": [
+      "ni",
+      "sl",
+      "ls"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "sx": {
+    "closest": [
+      "by",
+      "mg",
+      "qa"
+    ],
+    "furthest": [
+      "dz",
+      "va",
+      "cz"
+    ]
+  },
+  "sy": {
+    "closest": [
+      "ae",
+      "sv",
+      "eg"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "gb-nir"
+    ]
+  },
+  "sz": {
+    "closest": [
+      "kp",
+      "kh",
+      "ma"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "il"
+    ]
+  },
+  "tc": {
+    "closest": [
+      "sh",
+      "ai",
+      "vg"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "td": {
+    "closest": [
+      "ro",
+      "ad",
+      "md"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "hn"
+    ]
+  },
+  "tf": {
+    "closest": [
+      "ky",
+      "gs",
+      "vg"
+    ],
+    "furthest": [
+      "va",
+      "vn",
+      "id"
+    ]
+  },
+  "tg": {
+    "closest": [
+      "st",
+      "gy",
+      "sz"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "si"
+    ]
+  },
+  "th": {
+    "closest": [
+      "sr",
+      "cr",
+      "gd"
+    ],
+    "furthest": [
+      "sy",
+      "hn",
+      "ye"
+    ]
+  },
+  "tj": {
+    "closest": [
+      "hu",
+      "in",
+      "ye"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "si"
+    ]
+  },
+  "tk": {
+    "closest": [
+      "gp",
+      "xk",
+      "mo"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "kr"
+    ]
+  },
+  "tl": {
+    "closest": [
+      "ma",
+      "im",
+      "cn"
+    ],
+    "furthest": [
+      "hn",
+      "cy",
+      "pw"
+    ]
+  },
+  "tm": {
+    "closest": [
+      "sa",
+      "cc",
+      "mo"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "id"
+    ]
+  },
+  "tn": {
+    "closest": [
+      "hk",
+      "im",
+      "kg"
+    ],
+    "furthest": [
+      "pw",
+      "hn",
+      "jp"
+    ]
+  },
+  "to": {
+    "closest": [
+      "ma",
+      "cn",
+      "bm"
+    ],
+    "furthest": [
+      "hn",
+      "aq",
+      "pw"
+    ]
+  },
+  "tr": {
+    "closest": [
+      "cn",
+      "im",
+      "ma"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "tt": {
+    "closest": [
+      "ma",
+      "im",
+      "cn"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "tv": {
+    "closest": [
+      "fj",
+      "so",
+      "kz"
+    ],
+    "furthest": [
+      "vn",
+      "kg",
+      "tw"
+    ]
+  },
+  "tw": {
+    "closest": [
+      "ws",
+      "wf",
+      "ma"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "tz": {
+    "closest": [
+      "tm",
+      "sa",
+      "mo"
+    ],
+    "furthest": [
+      "gb-nir",
+      "ge",
+      "ch"
+    ]
+  },
+  "ua": {
+    "closest": [
+      "rw",
+      "li",
+      "mz"
+    ],
+    "furthest": [
+      "hr",
+      "co",
+      "lu"
+    ]
+  },
+  "ug": {
+    "closest": [
+      "ma",
+      "im",
+      "es"
+    ],
+    "furthest": [
+      "hn",
+      "cy",
+      "jp"
+    ]
+  },
+  "um": {
+    "closest": [
+      "us",
+      "lr",
+      "fm"
+    ],
+    "furthest": [
+      "cc",
+      "ly",
+      "ao"
+    ]
+  },
+  "us": {
+    "closest": [
+      "um",
+      "lr",
+      "fm"
+    ],
+    "furthest": [
+      "cc",
+      "ly",
+      "ao"
+    ]
+  },
+  "uy": {
+    "closest": [
+      "fm",
+      "il",
+      "sm"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "tw"
+    ]
+  },
+  "uz": {
+    "closest": [
+      "ni",
+      "sv",
+      "ar"
+    ],
+    "furthest": [
+      "al",
+      "vn",
+      "kg"
+    ]
+  },
+  "va": {
+    "closest": [
+      "bt",
+      "vi",
+      "cy"
+    ],
+    "furthest": [
+      "hm",
+      "gp",
+      "nr"
+    ]
+  },
+  "vc": {
+    "closest": [
+      "bb",
+      "af",
+      "gn"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "bl"
+    ]
+  },
+  "ve": {
+    "closest": [
+      "lt",
+      "mm",
+      "co"
+    ],
+    "furthest": [
+      "hn",
+      "ni",
+      "pw"
+    ]
+  },
+  "vg": {
+    "closest": [
+      "ky",
+      "gs",
+      "pn"
+    ],
+    "furthest": [
+      "cy",
+      "va",
+      "jp"
+    ]
+  },
+  "vi": {
+    "closest": [
+      "yt",
+      "bl",
+      "cy"
+    ],
+    "furthest": [
+      "gp",
+      "ao",
+      "pg"
+    ]
+  },
+  "vn": {
+    "closest": [
+      "kg",
+      "cn",
+      "me"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "vu": {
+    "closest": [
+      "bf",
+      "ly",
+      "by"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "yt"
+    ]
+  },
+  "wf": {
+    "closest": [
+      "ma",
+      "cn",
+      "im"
+    ],
+    "furthest": [
+      "hn",
+      "pw",
+      "aq"
+    ]
+  },
+  "ws": {
+    "closest": [
+      "tw",
+      "ma",
+      "im"
+    ],
+    "furthest": [
+      "cy",
+      "hn",
+      "jp"
+    ]
+  },
+  "xk": {
+    "closest": [
+      "mp",
+      "mo",
+      "gu"
+    ],
+    "furthest": [
+      "va",
+      "id",
+      "jp"
+    ]
+  },
+  "ye": {
+    "closest": [
+      "eg",
+      "iq",
+      "hu"
+    ],
+    "furthest": [
+      "ee",
+      "fi",
+      "gb-nir"
+    ]
+  },
+  "yt": {
+    "closest": [
+      "bl",
+      "vi",
+      "jp"
+    ],
+    "furthest": [
+      "gp",
+      "ao",
+      "ly"
+    ]
+  },
+  "za": {
+    "closest": [
+      "gm",
+      "vu",
+      "sa"
+    ],
+    "furthest": [
+      "jp",
+      "cy",
+      "bl"
+    ]
+  },
+  "zm": {
+    "closest": [
+      "cc",
+      "sa",
+      "tm"
+    ],
+    "furthest": [
+      "cy",
+      "jp",
+      "yt"
+    ]
+  },
+  "zw": {
+    "closest": [
+      "tg",
+      "sr",
+      "by"
+    ],
+    "furthest": [
+      "il",
+      "hn",
+      "cy"
+    ]
+  }
+}
