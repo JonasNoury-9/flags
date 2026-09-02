@@ -1,0 +1,169 @@
+---
+title: "Flags & World Explorer"
+format: html
+resources:
+  - "data/*"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+library(tidyverse)
+library(countrycode)
+library(rnaturalearth)
+library(leaflet)
+library(scales)
+library(htmltools)
+library(jsonlite)
+
+# List all flag files and match codes to country names
+files <- list.files("data", pattern = "\\.png$")
+codes <- sub("\\.png$", "", files)
+
+flags_df <- tibble(code = codes) |>
+  mutate(country = countrycode(
+    toupper(code),
+    origin = "iso2c",
+    destination = "country.name.en",
+    custom_match = c(
+      "XK" = "Kosovo",
+      "GB-ENG" = "England",
+      "GB-NIR" = "Northern Ireland",
+      "GB-SCT" = "Scotland",
+      "GB-WLS" = "Wales"
+    )
+  )) |>
+  filter(!is.na(country)) |>
+  arrange(country)
+
+# Read visual similarity dataset
+similarity_data <- jsonlite::fromJSON("data/flag_similarity.json")
+
+# Pass data to Observable JS
+ojs_define(
+  flags_data = flags_df,
+  similarity_data = similarity_data
+)
+```
+
+## Select a Country Flag
+
+```{ojs}
+// Transform columns into an array of objects
+flags = transpose(flags_data)
+
+// Dropdown input to pick a country
+viewof selectedCode = Inputs.select(
+  new Map(flags.map(d => [d.country, d.code])),
+  { label: "Country:", value: "us" }
+)
+```
+
+```{ojs}
+// Code to country name lookup map
+codeToName = new Map(flags.map(d => [d.code, d.country]))
+
+// Get closest and least similar codes for the selected country
+currentSim = similarity_data[selectedCode] || { closest: [], furthest: [] }
+closestCodes = currentSim.closest
+furthestCodes = currentSim.furthest
+```
+
+```{ojs}
+// Display the selected flag and visual similarity comparisons
+html`
+<div style="margin-top: 15px; margin-bottom: 25px;">
+  <img 
+    src="https://flagcdn.com/w640/${selectedCode}.png" 
+    alt="Selected Flag" 
+    style="max-width: 400px; width: 100%; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);"
+  />
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 35px;">
+  <div style="background: #f8f9fa; padding: 16px; border-radius: 8px; border: 1px solid #dee2e6;">
+    <h4 style="margin-top: 0; color: #2b8a3e; font-size: 16px;">✨ 3 Closest Looking Flags</h4>
+    <div style="display: flex; gap: 12px; justify-content: space-between;">
+      ${closestCodes.map(code => html`
+        <div style="text-align: center; flex: 1;">
+          <img 
+            src="https://flagcdn.com/w320/${code}.png" 
+            alt="${codeToName.get(code) || code}"
+            style="width: 100%; height: 60px; object-fit: contain; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);" 
+          />
+          <div style="font-size: 12px; font-weight: 600; margin-top: 6px;">${codeToName.get(code) || code.toUpperCase()}</div>
+        </div>
+      `)}
+    </div>
+  </div>
+
+  <div style="background: #f8f9fa; padding: 16px; border-radius: 8px; border: 1px solid #dee2e6;">
+    <h4 style="margin-top: 0; color: #c92a2a; font-size: 16px;">⚡ 3 Least Similar Flags</h4>
+    <div style="display: flex; gap: 12px; justify-content: space-between;">
+      ${furthestCodes.map(code => html`
+        <div style="text-align: center; flex: 1;">
+          <img 
+            src="https://flagcdn.com/w320/${code}.png" 
+            alt="${codeToName.get(code) || code}"
+            style="width: 100%; height: 60px; object-fit: contain; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);" 
+          />
+          <div style="font-size: 12px; font-weight: 600; margin-top: 6px;">${codeToName.get(code) || code.toUpperCase()}</div>
+        </div>
+      `)}
+    </div>
+  </div>
+</div>
+`
+```
+
+## World Population Map
+
+```{r}
+# Load world boundaries with population estimates
+world <- ne_countries(scale = "medium", returnclass = "sf") |>
+  dplyr::filter(admin != "Antarctica")
+
+# Create hover labels showing country name and formatted population
+country_labels <- sprintf(
+  "<strong>%s</strong><br/>Population: %s",
+  world$name,
+  label_comma()(world$pop_est)
+) |> lapply(HTML)
+
+# Color palette based on population
+pal <- colorQuantile("Blues", domain = world$pop_est, n = 6)
+
+leaflet(
+  world,
+  width = "100%",
+  height = "550px",
+  options = leafletOptions(
+    minZoom = 1.5,
+    maxZoom = 6,
+    maxBounds = list(c(-85, -180), c(85, 180))
+  )
+) |>
+  addPolygons(
+    fillColor = ~pal(pop_est),
+    weight = 1,
+    opacity = 1,
+    color = "#ffffff",
+    dashArray = "1",
+    fillOpacity = 0.7,
+    highlightOptions = highlightOptions(
+      weight = 2,
+      color = "#333333",
+      dashArray = "",
+      fillOpacity = 0.9,
+      bringToFront = TRUE
+    ),
+    label = country_labels,
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "4px 8px"),
+      textsize = "13px",
+      direction = "auto"
+    )
+  )
+```
